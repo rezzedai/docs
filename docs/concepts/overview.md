@@ -18,7 +18,7 @@ CacheBash removes you from that loop.
 
 ## What it does
 
-CacheBash provides 34 tools across 9 modules, all accessible through the standard MCP protocol:
+CacheBash provides 34 tools across 10 modules, all accessible through the standard MCP protocol:
 
 | Module | What it does |
 |--------|-------------|

@@ -130,7 +130,7 @@ After restarting your client, ask your agent:
 List all available CacheBash tools
 ```
 
-You should see 34 tools across 9 modules. If you see an error, check [Troubleshooting: Common Issues](/troubleshooting/common-issues).
+You should see 34 tools across 10 modules. If you see an error, check [Troubleshooting: Common Issues](/troubleshooting/common-issues).
 
 ## Multiple clients, one server
 

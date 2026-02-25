@@ -69,7 +69,7 @@ Ask Claude Code to check for available tools:
 What CacheBash tools are available?
 ```
 
-You should see 34 tools across 9 modules (Dispatch, Relay, Pulse, Sprint, Signal, Dream, Program State, Keys, Observability).
+You should see 34 tools across 10 modules (Dispatch, Relay, Pulse, Sprint, Signal, Dream, Program State, Keys, Metrics, Trace).
 
 If you see an error, check:
 - The API key is correct (no extra spaces or quotes)

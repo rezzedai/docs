@@ -44,7 +44,7 @@ In Cursor's chat, ask:
 List available CacheBash tools
 ```
 
-You should see 34 tools across 9 modules. If you get an error, verify the API key and URL are correct.
+You should see 34 tools across 10 modules. If you get an error, verify the API key and URL are correct.
 
 ## Step 4: Create a task
 
